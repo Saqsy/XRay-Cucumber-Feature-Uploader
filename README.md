@@ -6,4 +6,8 @@ Java Utility for uploading cucumber files into Jira Xray plugin
 
 XRay endpoint and documentation link used in utility - [XRAY Docs](https://docs.getxray.app/display/XRAYCLOUD/Importing+Cucumber+Tests+-+REST+v2)
 
+# Releases
+[Click here to check latest releases](https://github.com/Saqsy/XRay-Cucumber-Feature-Uploader/releases/)
+
+# License
 Licensed under the [MIT License](LICENSE)
